@@ -6,5 +6,6 @@ import the sql file in phpmyadmin database name= techkrunch
 paste the IAN folder in your xampp/htdocs/ folder.
 
 Change the ip address to match your ip address. in the backgroundTask.
- 
+ example my ip address will be as follows:
+  String reg_url = "http://192.168.0.163/ian/signup.php";
  
